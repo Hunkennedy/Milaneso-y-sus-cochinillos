@@ -21,7 +21,7 @@ Cursos Basicos:
     Curso de C# basico
         https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B
     Curso de SQL basico
-        https://docs.microsoft.com/es-es/learn/paths/get-started-querying-with-transact-sql/
+        https://www.w3schools.com/sql/sql_intro.asp
 
     #Se usa en ambos#
     Curso Git basico
