@@ -20,8 +20,9 @@ Cursos Basicos:
         https://youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm
 
     #Se usa en ambos#
-    Curso Git basico
-        https://www.youtube.com/watch?v=HiXLkL42tMU
+    
+    <a href="https://www.youtube.com/watch?v=HiXLkL42tMU">Curso Git basico</a>
+        
     HTTP
         https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 
