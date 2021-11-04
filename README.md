@@ -25,7 +25,7 @@ Esto se usa para el backend#
 
 ## Descargas:
 * <a href="https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi">JDK 17 </a> 
-* <a href="https://download.oracle.com/otn/java/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/jdk-8u301-windows-x64.exe?AuthParam=1636063359_db95ee1401ebae12c9708b9034fdbd25">JDK 1.7</a>
+* <a href="https://download.oracle.com/otn/java/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/jdk-8u301-windows-x64.exe?AuthParam=1636063359_db95ee1401ebae12c9708b9034fdbd25">JDK 1.8</a>
 
 * <a href="https://dlcdn.apache.org/netbeans/netbeans/12.0/Apache-NetBeans-12.0-bin-windows-x64.exe">Editor de texto NetBeans</a> 
 * <a href="https://download-cdn.jetbrains.com/idea/ideaIC-2021.2.3.exe">Editor de texto Intellij</a>
