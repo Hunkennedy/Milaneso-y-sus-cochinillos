@@ -1,27 +1,23 @@
 # Aprendan-A-Programar
-
-!-- Importante --!
-
-    Despues de ver los videos de youtube donde explican la diferencia entre backend y frontend decidan por que curso basico empezar
-
-Difusion:
-
-    Consejos para empezar a programar
-        https://youtu.be/MEuZICEDLJo
-    Diferencias entre backend y frontend
-        https://youtu.be/oyHKLsavMFc
+Vamos a aprender back-end con java, yo no voy a realizar el curso, no quiero morir
+voy a ir poniendo una seguidilla de contenidos para poder seguirlos de una forma logica
 
 Cursos Basicos:
 
-    #Esto se usa para el frontend#
-    Curso HTML, CSS y JavaScript basico
-        https://www.freecodecamp.org/espanol/learn/
+    
 
     #Esto se usa para el backend#
     Curso de C# basico
-        https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B
+        https://youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk
+        Este curso de java es re largo y viejo, pero los conceptos de programacion son los mismos, yo recomiendo verlo hasta
+            hasta el video 54 que ve todo lo que es programarion orientada a objetos. Hay conceptos interesantes mas adelante claro
+            pero los voy a especificar mas adelante
+            
     Curso de SQL basico
         https://www.w3schools.com/sql/sql_intro.asp
+
+    Curso de SpringBoot
+        https://youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm
 
     #Se usa en ambos#
     Curso Git basico
@@ -29,29 +25,25 @@ Cursos Basicos:
     HTTP
         https://developer.mozilla.org/es/docs/Web/HTTP/Overview
 
-Cursos Intermedios:
-
-    #Ya sabiendo JavaScript es muchisimo mas facil entender las apirest#
-    API Rest
-        https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
-    MVC
-        https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio
 
 Descargas:
-
-    #Uno es un editor de texto, el otro un entorno de desarrollo#
-    VS Code
-        https://code.visualstudio.com/docs/?dv=win
-    Visual Studio
-        https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&rel=16
-    Windows Terminal
-        https://www.microsoft.com/es-ar/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab
+    JDK 17
+        https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi
+    JDK 1.7
+        https://download.oracle.com/otn/java/jdk/8u301-b09/d3c52aa6bfa54d3ca74e617f18309292/jdk-8u301-windows-x64.exe?AuthParam=1636063359_db95ee1401ebae12c9708b9034fdbd25
+        
+    Editor de texto NetBeans
+        https://dlcdn.apache.org/netbeans/netbeans/12.0/Apache-NetBeans-12.0-bin-windows-x64.exe
+    Editor de texto Intellij
+        https://download-cdn.jetbrains.com/idea/ideaIC-2021.2.3.exe
+    Por que dos? NetBeans es copado para aprender, e Intellij es re fachero para programar
+    
 
 Explicaciones:
 
-    Que es C#:
-        Es un lenguaje de programacion orientado a objetos utilizado para crear programas de escritorio y de desarrollo web backend y ultimamente tambien se esta pudiendo usar en el frontend
-
+    Que es Java:
+        Es un lenguaje de programacion orientado a objetos utilizado para crear programas de escritorio y de desarrollo web backend, pero tambien es muy usado 
+            port empresas financieras como bancos
     Que es una base de datos:
         Es un programa que guarda los datos, es como un excel, solo que mas avanzado ya que puede relacionar sus tablas
 
@@ -66,11 +58,6 @@ Explicaciones:
 
 Canales de Youtube:
 
-    NetMentor:
-        https://www.youtube.com/c/NetMentor
-
-    JonMircha:
-        https://www.youtube.com/c/jonmircha
 
     PildorasInformaticas:
         https://www.youtube.com/c/pildorasinformaticas
