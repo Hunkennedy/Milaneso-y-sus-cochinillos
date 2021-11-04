@@ -2,9 +2,11 @@
 Vamos a aprender back-end con java, yo no voy a realizar el curso, no quiero morir
 voy a ir poniendo una seguidilla de contenidos para poder seguirlos de una forma logica
 
+## Contenido elemental no relacionado a programacion
+* <a href="https://www.youtube.com/watch?v=HiXLkL42tMU">Curso Git basico</a>
+* <a href="https://developer.mozilla.org/es/docs/Web/HTTP/Overview">HTTP</a>
+
 ## Cursos Basicos:
-
-
 
 Esto se usa para el backend#
 
@@ -20,13 +22,6 @@ Esto se usa para el backend#
 
 * <a href="https://youtube.com/playlist?list=PLU8oAlHdN5Blq85GIxtKjIXdfHPksV_Hm">Curso de SpringBoot</a>
     
-
-#Se usa en ambos#
-
-* <a href="https://www.youtube.com/watch?v=HiXLkL42tMU">Curso Git basico</a>
-* <a href="https://developer.mozilla.org/es/docs/Web/HTTP/Overview">HTTP</a>
-
-
 
 ## Descargas:
 * <a href="https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi">JDK 17 </a> 
