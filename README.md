@@ -15,7 +15,7 @@ Esto se usa para el backend#
         hasta el video 54 que ve todo lo que es programarion orientada a objetos. Hay conceptos interesantes mas adelante claro
         pero los voy a especificar mas adelante
 
-* <a target="_blank" href="https://www.w3schools.com/sql/sql_intro.asp">Curso de SQL basico</a>
+* <a target="_blank" href="https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn">Curso de SQL basico</a>
     
 
 
