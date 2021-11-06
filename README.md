@@ -10,10 +10,10 @@ voy a ir poniendo una seguidilla de contenidos para poder seguirlos de una forma
 
 Esto se usa para el backend#
 
-* <a target="_blank" href="https://youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk">Curso de Java basico</a>
-    Este curso de java es re largo y viejo, pero los conceptos de programacion son los mismos, yo recomiendo verlo hasta
-        hasta el video 54 que ve todo lo que es programarion orientada a objetos. Hay conceptos interesantes mas adelante claro
-        pero los voy a especificar mas adelante
+* <a target="_blank" href="https://youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk">Curso de Java basico</a> <br>
+        Este curso de java es re largo y viejo, pero los conceptos de programacion son los mismos, yo recomiendo verlo hasta
+            hasta el video 54 que ve todo lo que es programarion orientada a objetos. Hay conceptos interesantes mas adelante claro
+            pero los voy a especificar despues
 
 * <a target="_blank" href="https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn">Curso de SQL basico</a>
     
